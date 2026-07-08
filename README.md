@@ -59,4 +59,4 @@ This project started as a way to help my uncle play Civilization II on modern Wi
 
 Hopefully there is plenty more to come.
 
-— Vi
+💜 Violet 💜
