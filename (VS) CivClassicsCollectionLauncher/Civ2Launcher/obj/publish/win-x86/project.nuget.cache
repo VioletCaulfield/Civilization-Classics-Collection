@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUN9by+3jUE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\CivClassicsCollectionLauncher\\Civ2Launcher\\CivClassicLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.9\\microsoft.net.illink.tasks.10.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sharpcompress\\0.49.1\\sharpcompress.0.49.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\10.0.9\\microsoft.netcore.app.runtime.win-x86.10.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\10.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.10.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\10.0.9\\microsoft.aspnetcore.app.runtime.win-x86.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

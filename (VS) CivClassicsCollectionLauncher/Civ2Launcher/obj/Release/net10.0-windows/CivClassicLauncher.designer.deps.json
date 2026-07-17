@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SharpCompress/0.49.1": {
+        "runtime": {
+          "lib/net10.0/SharpCompress.dll": {
+            "assemblyVersion": "0.49.1.0",
+            "fileVersion": "0.49.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpCompress/0.49.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Meygd8HAnUgqYzxvCsaYR5XnZAG2xBmxkQHVGi/HkCjrvEq+tiM+VPQRvYLxsbse3KUmec65ccdMiOXv8CkjsA==",
+      "path": "sharpcompress/0.49.1",
+      "hashPath": "sharpcompress.0.49.1.nupkg.sha512"
+    }
+  }
+}

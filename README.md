@@ -1,62 +1,92 @@
 # Civilization Classics Collection
 
-Welcome to the official repository for the **Civilization Classics Collection**.
+Welcome to the official source code repository for the **Civilization Classics Collection**.
 
-The project brings together several classic Civilization games with modern Windows compatibility fixes, a custom launcher, built-in mod management and an easy-to-use installer.
-
----
-
-## Current Status
-
-The project is currently in maintenance while I focus on school and continue learning C#. It is **not abandoned**, and future updates will be posted here when development resumes.
-
-One of my current goals is to properly document and open source the launcher and installer so anyone interested can explore the code and learn how everything works.
+The project brings together several classic Civilization games with modern Windows compatibility fixes, a custom launcher, built-in mod management, and an easy-to-use Windows installer.
 
 ---
 
-## What's in this Repository?
+# About This Repository
 
-This repository will gradually become the home of the project, including:
+This repository contains the **launcher source code**, **Inno Setup installer source**, project documentation, and other development resources.
 
-- 📦 Release downloads
-- 💻 Launcher & installer source code (coming soon)
+> [!IMPORTANT]
+> **The complete Civilization Classics Collection package (including the pre-configured game files) is NOT hosted on GitHub.**
+>
+> The Collection includes copyrighted game assets that cannot be redistributed through this repository.
+>
+> If you're simply looking to download and play the Collection, please use one of the official community release links (such as the Reddit project thread or Archive.org).
+
+This repository exists so anyone can:
+
+- 🔍 Inspect the launcher source code
+- 📦 Review the installer
+- 🛡 Verify exactly what the project does
+- 📖 Learn from the code
+- 🛠 Report bugs or contribute improvements
+
+---
+
+# Current Status
+
+The project is currently in maintenance while I focus on school and continue learning C#.
+
+It is **not abandoned**, and future updates will continue to be released when development resumes.
+
+One of the long-term goals of this repository is to fully document the project so others can understand how the launcher, installer, and supporting tools were built.
+
+---
+
+# Repository Contents
+
+- 💻 Civilization Classics Launcher source code
+- 📦 Inno Setup installer source
 - 📖 Documentation
 - 📜 Changelogs
-- 🛠 Development updates
+- 🛠 Development resources
 
 ---
 
-## Discussions
+# Downloads
+
+The playable **Civilization Classics Collection** is **not distributed through GitHub**.
+
+Current public releases are available from the community download links shared through the project's Reddit thread and Archive.org.
+
+---
+
+# Discussions
 
 GitHub Discussions is enabled!
 
 If you have:
 
 - Questions
-- Ideas
 - Suggestions
 - Compatibility reports
 - Feature requests
-- Or just want to chat about the project...
+- Or simply want to chat about the project...
 
-Please head over to the **Discussions** tab instead of opening an Issue.
+please use the **Discussions** tab.
 
-Issues are reserved for confirmed bugs and development tasks.
-
----
-
-## Downloads
-
-The latest public release is always available from the Releases section of this repository, or from the links shared on the project's Reddit thread.
+The **Issues** tab is reserved for confirmed bugs and development work.
 
 ---
 
-## Thank You
+# Why Open Source?
 
-Thank you to everyone who has downloaded the collection, tested it, reported bugs, suggested improvements, or simply enjoyed revisiting these classic Civilization games.
+Many people asked for the launcher to be open sourced so they could verify exactly how it works.
 
-This project started as a way to help my uncle play Civilization II on modern Windows. I never expected it to grow into something this many people would enjoy.
+Making the source code available allows anyone to inspect the launcher, installer, update system, and mod manager for themselves. Hopefully it also proves useful for anyone learning C#, Windows Forms, or Inno Setup.
 
-Hopefully there is plenty more to come.
+---
 
-💜 Violet 💜
+# Thank You
+
+Thank you to everyone who has downloaded the Collection, tested it, reported bugs, suggested improvements, or simply enjoyed revisiting these classic Civilization games.
+
+This project originally began as a way to help my uncle play Civilization II on modern versions of Windows. I never expected it to grow into something so many people would enjoy.
+
+Thank you for being part of it.
+
+💜 **Violet** 💜

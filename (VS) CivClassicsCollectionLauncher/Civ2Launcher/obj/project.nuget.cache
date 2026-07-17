@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XJScuDAf/tc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CivClassicCollectionSource\\(VS) CivClassicsCollectionLauncher\\Civ2Launcher\\CivClassicLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\sharpcompress\\0.49.1\\sharpcompress.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

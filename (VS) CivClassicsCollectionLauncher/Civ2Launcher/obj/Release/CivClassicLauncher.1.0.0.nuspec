@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CivClassicLauncher</id>
+    <version>1.0.0</version>
+    <authors>CivClassicLauncher</authors>
+    <icon>CivClassicCollection.png</icon>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net10.0-windows7.0/appicon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\CivClassicLauncher.runtimeconfig.json" target="lib\net10.0-windows7.0\CivClassicLauncher.runtimeconfig.json" />
+    <file src="C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\CivClassicLauncher.dll" target="lib\net10.0-windows7.0\CivClassicLauncher.dll" />
+    <file src="C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\appicon.ico" target="content\appicon.ico" />
+    <file src="C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\appicon.ico" target="contentFiles\any\net10.0-windows7.0\appicon.ico" />
+    <file src="C:\Users\user\Desktop\CivClassicCollectionSource\Assets\CivClassicCollection.png" target="\CivClassicCollection.png" />
+  </files>
+</package>

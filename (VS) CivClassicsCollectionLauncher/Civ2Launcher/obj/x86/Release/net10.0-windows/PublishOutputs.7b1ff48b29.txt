@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\CivClassicLauncher.exe
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\CivClassicLauncher.dll
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\CivClassicLauncher.deps.json
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\CivClassicLauncher.runtimeconfig.json
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\CivClassicLauncher.pdb
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\Interop.WMPLib.dll
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\CivClassicsCollectionLauncher\Civ2Launcher\bin\Release\net10.0-windows\publish\SharpCompress.dll
