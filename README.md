@@ -87,7 +87,7 @@ The launcher, installer and other original source code contained in this reposit
 
 The original Civilization games, their artwork, audio, trademarks and other game assets remain the property of their respective copyright holders and are **not** covered by the MIT License.
 
-See the [LICENSE](LICENSE) file for details.
+See the LICENSE file for details.
 
 ---
 
