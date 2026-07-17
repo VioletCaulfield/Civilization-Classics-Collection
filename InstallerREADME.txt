@@ -275,15 +275,30 @@ Special thanks to:
 whose work has helped preserve these classic games for modern systems.
 
 ======================================================================
-COPYRIGHT
-=========
+COPYRIGHT & LICENSING
+=====================
 
-Civilization Classics Collection, its launcher, Mod Manager, installer scripts, compatibility configuration, integration work, testing and packaging are © Violet Caulfield.
+The Civilization Classics Collection launcher, Mod Manager, installer and
+other original source code developed for this project are licensed under
+the MIT License.
 
-Sid Meier's Civilization, Civilization II Multiplayer Gold Edition and Civilization II: Test of Time remain the property of their respective copyright holders.
+The full source code is available on GitHub:
 
-This collection includes third-party compatibility components, community patches and open-source software where appropriate.
+https://github.com/VioletCaulfield/Civilization-Classics-Collection
 
-This is a non-commercial fan-made compatibility and preservation project.
+The MIT License applies only to the original source code contained within
+the GitHub repository.
 
-No ownership is claimed over the original games, trademarks, artwork, audio, video or other intellectual property belonging to their respective copyright holders.
+The original Civilization games, their artwork, audio, video, trademarks
+and other intellectual property remain the property of their respective
+copyright holders and are NOT covered by the MIT License.
+
+This Collection also includes third-party compatibility components,
+community patches and open-source software where appropriate. Those
+components remain subject to their own respective licences.
+
+This is a non-commercial fan-made compatibility, preservation and
+accessibility project.
+
+No ownership is claimed over the original Civilization games or any
+intellectual property belonging to their respective copyright holders.

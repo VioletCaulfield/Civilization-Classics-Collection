@@ -81,6 +81,16 @@ Making the source code available allows anyone to inspect the launcher, installe
 
 ---
 
+## License
+
+The launcher, installer and other original source code contained in this repository are licensed under the **MIT License**.
+
+The original Civilization games, their artwork, audio, trademarks and other game assets remain the property of their respective copyright holders and are **not** covered by the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
+
+---
+
 # Thank You
 
 Thank you to everyone who has downloaded the Collection, tested it, reported bugs, suggested improvements, or simply enjoyed revisiting these classic Civilization games.
@@ -90,3 +100,4 @@ This project originally began as a way to help my uncle play Civilization II on 
 Thank you for being part of it.
 
 💜 **Violet** 💜
+
